@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eed67f4c038bc2a44a267de67a549883, type: 3}
+  m_Name: LevelRule_4
+  m_EditorClassIdentifier: 
+  m_BackGround: {fileID: 21300000, guid: d4bf2d6edc776384fb8effee662bfdee, type: 3}
+  m_WaveCount: 5
+  m_CountTypeEnemy: 0100000001000000010000000100000001000000
+  m_WaveContent:
+  - {fileID: 11400000, guid: f270e0fa69b52154fb169a3c0564b31b, type: 2}
+  - {fileID: 11400000, guid: 6393c0cf715ebe643bfa118e2054f881, type: 2}
+  - {fileID: 11400000, guid: 9c1e6594fe2e9b845b59f46c2db74495, type: 2}
+  - {fileID: 11400000, guid: eeea34ba54f475b44a61aebf0b09b655, type: 2}
+  - {fileID: 11400000, guid: e9f80ebf3357ab540be6f31eadda3df4, type: 2}
+  m_WaveSize: 0300000002000000020000000200000001000000
+  tempCountTypeEnemy: 0100000001000000010000000100000001000000
